@@ -31,7 +31,7 @@ Bu proje, Java programlama dili ve Swing kütüphanesi kullanılarak geliştiril
 ## 💻 Kurulum ve Çalıştırma
 
 ### 1. Depoyu Klonlayın
-```bash
+```bash```
 git clone [https://github.com/alperenekici00-creator/Adam-Asmaca-Oyunu.git](https://github.com/alperenekici00-creator/Adam-Asmaca-Oyunu.git)
 
 
