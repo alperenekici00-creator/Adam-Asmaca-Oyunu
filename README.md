@@ -1,5 +1,5 @@
-[TR
-]# 🕹️ Adam Asmaca (Hangman) Masaüstü Uygulaması
+[TR]
+# 🕹️ Adam Asmaca (Hangman) Masaüstü Uygulaması
 
 <p align="center">
   <a href="#-english-version">English Version Below</a>
