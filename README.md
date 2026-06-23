@@ -32,6 +32,11 @@ Bu proje, Java programlama dili ve Swing kütüphanesi kullanılarak geliştiril
 ```bash```
 git clone [https://github.com/alperenekici00-creator/Adam-Asmaca-Oyunu.git](https://github.com/alperenekici00-creator/Adam-Asmaca-Oyunu.git)
 
+
+
+
+
+
 [ENG]
 🕹️ Hangman Desktop Application
 This project is a classic Hangman game with a graphical user interface (GUI) developed using the Java programming language and the Swing library. In addition to the interface components, file management and logical algorithms have been actively implemented throughout the project.
